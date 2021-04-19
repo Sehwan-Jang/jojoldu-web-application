@@ -4,3 +4,5 @@ com/jojoldu/book/springboot/web/dto/HelloResponseDtoTest.java
  com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest
 com/jojoldu/book/springboot/domain/posts/PostsRepositoryTest.java
  com.jojoldu.book.springboot.domain.posts.PostsRepositoryTest
+com/jojoldu/book/springboot/web/PostApiControllerTest.java
+ com.jojoldu.book.springboot.web.PostApiControllerTest
